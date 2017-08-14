@@ -20,5 +20,8 @@ Git はじめてみました。
 * <http://www.google.co.jp>
 * [グーグル先生](http://www.google.co.jp "リンクの説明やで")
 
+## 追伸
+もういっかい編集してみとくわ。
+
 ---
 EOF
